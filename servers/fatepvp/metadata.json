@@ -8,8 +8,8 @@
         "fatepvp.com"
     ],
     "primaryAddress": "fatepvp.com",
-    "primaryColor": "#421864",
-    "secondaryColor": "#cf66f0",
+    "primaryColor": "#cf66f0",
+    "secondaryColor": "#CBC3E3",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
